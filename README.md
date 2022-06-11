@@ -5,6 +5,8 @@ The port scanner tool will provide you with information regarding valid methods 
 ## How to use
 
 Request Format:
+```JSON
+    {"Field": "Value"}
 ```
     For Scanning Common Ports
 
