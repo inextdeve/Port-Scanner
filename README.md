@@ -6,8 +6,9 @@ The port scanner tool will provide you with information regarding valid methods 
 
 Request Format:
 ```JSON
-```
 For Scanning Common Ports
+```
+
 
 ```JSON
     {
