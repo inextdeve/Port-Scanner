@@ -4,7 +4,7 @@ The port scanner API will provide you with information regarding valid methods o
 
 ## How to use
 
-Request Format:
+Request Format [POST] JSON Body:
 ```JSON
     {"Field": "Value"}
 ```
